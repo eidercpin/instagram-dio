@@ -9,9 +9,9 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 ## 🚀 Let's code! 🚀
 
-#Edit
+# Edit
 
-##Fiz alterações basicas de pernonalisações:
+## Fiz alterações basicas de pernonalisações:
 
 ### ALteração de foto do perfil
 ### Alterações do nome titular da conta
