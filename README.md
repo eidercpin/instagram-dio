@@ -8,3 +8,11 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+#Edit
+
+##Fiz alterações basicas de pernonalisações:
+
+### ALteração de foto do perfil
+### Alterações do nome titular da conta
+### acrescentei referencia clicavel em "alterar contas" e "increver-se"
